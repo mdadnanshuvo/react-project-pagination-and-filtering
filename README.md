@@ -1,3 +1,3 @@
 # react-iz7o7x
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-iz7o7x)
+This is another React projects that is designed to store all the elements within paginations and filtering.
